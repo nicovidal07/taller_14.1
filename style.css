@@ -1,0 +1,19 @@
+/* Estilos personalizados para los botones */
+.custom-btn {
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px 110px; /* Ajusta el espaciado horizontal y vertical */
+    margin-left: 100px;
+}
+
+.opcion-box {
+  display: flex;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-decoration: underline;
+}
+
+.col {
+    background-color: darkgrey;
+}
